@@ -1,6 +1,5 @@
 ### Hi there 👋
 📫 How to reach me: ale@bluphy.com
-😄 Pronouns: he/him
 
 ![bluPhy's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluPhy&count_private=true&show_icons=true&theme=dark)
 
