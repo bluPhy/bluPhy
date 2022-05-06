@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bluPhy)](https://github.com/anuraghazra/github-readme-stats)
+![bluPhy's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluPhy&count_private=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bluPhy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
