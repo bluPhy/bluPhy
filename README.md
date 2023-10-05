@@ -2,9 +2,9 @@
 📫 How to reach me: ale@bluphy.com
 
 ## GitHub Stats
-[![bluPhy's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluPhy&count_private=true&show_icons=true&theme=dark)](https://github.com/bluPhy/github-readme-stats)
+[![bluPhy's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluPhy&count_private=true&show_icons=true&theme=dark)]
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bluPhy&repo=cloud-foundation-fabric)](https://github.com/bluPhy/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bluPhy&repo=cloud-foundation-fabric)]
 
 ## 😂 Here is a random joke that hopefully will make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
