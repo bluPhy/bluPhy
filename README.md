@@ -2,10 +2,10 @@
 📫 How to reach me: ale@bluphy.com
 
 ## 1. GitHub Stats
-![bluPhy's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluPhy&count_private=true&show_icons=true&theme=dark)
+[![bluPhy's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluPhy&count_private=true&show_icons=true&theme=dark)](https://github.com/bluPhy/github-readme-stats)
 
 ## 2. Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluPhy&theme=radical)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluPhy&theme=radical)](https://github.com/bluPhy/github-readme-stats)
 
 ## 😂 Here is a random joke that hopefully will make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
